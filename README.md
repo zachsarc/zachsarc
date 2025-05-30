@@ -26,7 +26,7 @@ Welcome to my Computer Science Portfolio, here I record all of my latest and gre
 
 ***
 
-# AI
+# 🤖 AI
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
