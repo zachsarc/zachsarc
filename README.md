@@ -7,7 +7,7 @@ Welcome to my Computer Science Portfolio, here I record all of my latest and gre
 - [Java](#Java)
 - [AI](#AI)
 
-# Web-Development
+# 🌐 Web-Development
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -15,7 +15,7 @@ Welcome to my Computer Science Portfolio, here I record all of my latest and gre
 
 ***
 
-# Java
+# ♨️ Java
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
