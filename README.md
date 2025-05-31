@@ -8,7 +8,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 - [AI](#AI)
 - [Web-Development](#Web-Development)
 
-# ∬ Mathematics Research
+ # Mathematics Research ∬
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -16,7 +16,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 
 ***
 
-# ♨️ Java
+# Java ♨️
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -27,7 +27,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 
 ***
 
-# 🤖 AI
+# AI 🤖
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -35,7 +35,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 
 ***
 
-# 🌐 Web-Development
+# Web-Development 🌐
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
