@@ -33,7 +33,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 | Project Link | Completion Date | Tools 🤖 | Project Description | 
 |---|---|---|---|
 | [Connecticut Government Project - AI Powerlines](https://github.com/zachsarc/CAP1/blob/main/notes.md) | November 2023 | HTML, CSS, JavaScript | Developed an AI driven plan to conduct powerline applications in both rural and city roads implementing different companies and occupations expanding the job-market and increasing revenue globally. |
-| In Progress... | In Progress... | In Progress... |
+| In Progress... | In Progress... | In Progress... | In Progress... |
 
 ***
 
