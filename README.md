@@ -3,12 +3,12 @@
 Welcome! here I record all of my latest and greatest projects, thanks for tuning in! I am a student at Central Connecticut State University, working towards a Bachelor’s degree in Computer Science with a minor in Artificial Intelligence.
 
 ## 📚 Table of Contents
-- [Mathematics Research](#Research)
+- [Mathematics Research](#Mathematics-Research)
 - [Java](#Java)
 - [AI](#AI)
 - [Web-Development](#Web-Development)
 
- # Mathematics Research
+ # Mathematics-Research
 
 | Project Link | Completion Date | Tools ∬ | Project Description | 
 |---|---|---|---|
