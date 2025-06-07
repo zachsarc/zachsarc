@@ -12,7 +12,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 
 | Project Link | Completion Date | Tools ∬ | Project Description | 
 |---|---|---|---|
-| Undergrad Binary Matrices Research (Mathematics)| Ongoing | Java, Maple, Python, OEIS, Apache | Classified, But Will Update When Published... |
+| Undergrad Binary Matrices Research (Mathematics)| Ongoing | Java, Maple, Python, OEIS | Classified, But Will Update When Published... |
 
 ***
 
