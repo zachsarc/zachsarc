@@ -12,7 +12,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 
 | Project Link | Completion Date | Tools ∬ | Project Description | 
 |---|---|---|---|
-| Undergrad Binary Matrices Research (Mathematics)| Ongoing | Java, OEIS, LaTex | Classified, But Will Update When Published... |
+| Undergrad Binary Matrices Research (Mathematics)| Ongoing | Java, OEIS, LaTex |a family of binary matrix configurations defined by local adjacency constraints. The goal of this work is to study how structure emerges from simple placement rules and to uncover counting patterns, recurrence relations, and connections to existing combinatorial sequences.|
 
 ***
 
