@@ -5,6 +5,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 ## 📚 Table of Contents
 - [Mathematics Research](#Mathematics-Research)
 - [Java](#Java)
+- [Kotline](#Kotlin)
 - [AI](#AI)
 - [Web-Development](#Web-Development)
 
@@ -25,6 +26,15 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 | [SCRMBL App](https://github.com/zachsarc/scrmbl) | In-Development | Java, Maven, CSS, AI | An Intelligent AI-powered Encryption/Decryption steganographic tool used to hide some top-secret data. Here is the sequence of SCRMBL using "TRACR" as the Algorithm |
 | [Chatbot](https://github.com/zachsarc/Zachs-Chat-Bot-with-Java) | Feb 2025 | Java, | This bot will be able to engage in basic conversation with you and perform simple arithmetic. |
 | In Progress... | In Progress... | In Progress... | In Progress... |
+
+***
+
+# Kotlin
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| [Pizza Ordering App](https://github.com/zachsarc/CS-152_Java2) | Completed | Kotlin, XML, UI/UX | The ultimate solution for crafting and ordering your ideal pizza right from your Android device. Our intuitive and user-friendly interface makes it easier than ever to satisfy your pizza cravings with a fully customized experience. |
+| [Operation Game](https://github.com/zachsarc/CorrectOperationApp) | Completed | Kotlin, XML, UI/UX | Operation Challenge is an engaging and educational mobile application designed to sharpen mental arithmetic and logical reasoning skills. This intuitive game presents users with a clean, user-friendly interface where they must solve a mathematical puzzle by identifying the missing operator. The core gameplay loop is simple yet challenging: players are shown an equation with two numbers and a result, but the operator (+, -, or *) is missing. By selecting one of the three operator buttons, players test their calculation speed and accuracy. |
 
 ***
 
