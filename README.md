@@ -5,7 +5,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 ## 📚 Table of Contents
 - [Mathematics Research](#Mathematics-Research)
 - [Java](#Java)
-- [Kotline](#Kotlin)
+- [Kotlin (Mobile-App Development)](#Kotlin)
 - [AI](#AI)
 - [Web-Development](#Web-Development)
 
