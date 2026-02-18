@@ -13,7 +13,8 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 
 | Project Link | Completion Date | Tools ∬ | Project Description | 
 |---|---|---|---|
-| Undergrad Binary Matrices Research (Mathematics)| Completed DEC 2025 | Java, OEIS, LaTex |a family of binary matrix configurations defined by local adjacency constraints. The goal of this work is to study how structure emerges from simple placement rules and to uncover counting patterns, recurrence relations, and connections to existing combinatorial sequences.| All information containing *Grates* can be found here [Repo](https://github.com/zachsarc/2-Dimensional-Grates/blob/main/README.md)
+| Undergrad Binary Matrices Research (Mathematics)| Completed DEC 2025 | Java, OEIS, LaTex |a family of binary matrix configurations defined by local adjacency constraints. The goal of this work is to study how structure emerges from simple placement rules and to uncover counting patterns, recurrence relations, and connections to existing combinatorial sequences.|
+*** All information containing *Grates* can be found here [Repo](https://github.com/zachsarc/2-Dimensional-Grates/blob/main/README.md)
 
 ***
 
@@ -23,7 +24,7 @@ Welcome! here I record all of my latest and greatest projects, thanks for tuning
 |---|---|---|---|
 | [SCRMBL App](https://github.com/zachsarc/scrmbl) | In-Development | Java, Maven, CSS, AI | An Intelligent Custom Encryption/Decryption cipher tool used to hide top-secret data. Here is the sequence of SCRMBL using several custom algorithms |
 | [CS-152 Java 2 ClassWork](https://github.com/zachsarc/CS-152_Java2) | Completed | Java | emphasizes object-oriented techniques: using and creating classes and objects, inheritance, polymorphism, and Java interfaces. Other topics included models as abstractions of situations, exception handling, introduction to event-driven programming, recursion, elementary searching and sorting techniques. |
-| [Local mp3 player]([https://github.com/zachsarc/Zachs-Chat-Bot-with-Java](https://github.com/zachsarc/LocalMP3Player)) | July 2025 | Java, XML, Maven | A JavaFX MP3 application that demonstrates the usage of Scene Builder. This project is built using Java and Maven. |
+| [Local mp3 player](https://github.com/zachsarc/LocalMP3Player) | July 2025 | Java, XML, Maven | A JavaFX MP3 application that demonstrates the usage of Scene Builder. This project is built using Java and Maven. |
 | [HABT App](https://github.com/zachsarc/HABTApp) | In-Development | Java, Maven, CSS | Developing and Implementing a Cross-Platform Habit Tracker with a social platform for daily tracking and goal achieving. |
 | [Chatbot](https://github.com/zachsarc/Zachs-Chat-Bot-with-Java) | Feb 2025 | Java, | This bot will be able to engage in basic conversation with you and perform simple arithmetic. |
 | In Progress... | In Progress... | In Progress... | In Progress... |
